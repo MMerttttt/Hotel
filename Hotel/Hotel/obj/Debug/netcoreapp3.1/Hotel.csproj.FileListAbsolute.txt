@@ -1,0 +1,13 @@
+C:\source\Hotel\Hotel\Hotel\bin\Debug\netcoreapp3.1\Hotel.exe
+C:\source\Hotel\Hotel\Hotel\bin\Debug\netcoreapp3.1\Hotel.deps.json
+C:\source\Hotel\Hotel\Hotel\bin\Debug\netcoreapp3.1\Hotel.runtimeconfig.json
+C:\source\Hotel\Hotel\Hotel\bin\Debug\netcoreapp3.1\Hotel.runtimeconfig.dev.json
+C:\source\Hotel\Hotel\Hotel\bin\Debug\netcoreapp3.1\Hotel.dll
+C:\source\Hotel\Hotel\Hotel\bin\Debug\netcoreapp3.1\Hotel.pdb
+C:\source\Hotel\Hotel\Hotel\obj\Debug\netcoreapp3.1\Hotel.csprojAssemblyReference.cache
+C:\source\Hotel\Hotel\Hotel\obj\Debug\netcoreapp3.1\Hotel.AssemblyInfoInputs.cache
+C:\source\Hotel\Hotel\Hotel\obj\Debug\netcoreapp3.1\Hotel.AssemblyInfo.cs
+C:\source\Hotel\Hotel\Hotel\obj\Debug\netcoreapp3.1\Hotel.csproj.CoreCompileInputs.cache
+C:\source\Hotel\Hotel\Hotel\obj\Debug\netcoreapp3.1\Hotel.dll
+C:\source\Hotel\Hotel\Hotel\obj\Debug\netcoreapp3.1\Hotel.pdb
+C:\source\Hotel\Hotel\Hotel\obj\Debug\netcoreapp3.1\Hotel.genruntimeconfig.cache
