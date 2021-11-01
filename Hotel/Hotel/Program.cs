@@ -7,6 +7,7 @@ namespace Hotel
         static void Main(string[] args)
         {
             Hotel myHotel = new Hotel();
+            Visitor myVisitor = new Visitor();
 
             Console.WriteLine("Wähle eines der Optionen aus");
             Console.WriteLine("1. Verfügbare Zimmer darstellen");
@@ -19,8 +20,9 @@ namespace Hotel
             }
             else if(auswahl == "2")
             {
-                myHotel.CheckIn();
-                string CheckInDaten = Console.ReadLine();
+                myVisitor.EinChecken();
+                myHotel.hnames();
+                myVisitor.ZimmerWahl();
             }
 
 

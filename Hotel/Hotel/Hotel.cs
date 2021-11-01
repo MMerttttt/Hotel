@@ -40,6 +40,12 @@ namespace Hotel
 
         }
 
+        public void hnames()
+        {
+            string hnames = "Aplenblick, Zuerichsee";
+            Console.WriteLine(hnames);
+        }
+
         public void LunchTime()
         {
             Console.WriteLine("Morgen: 07:00-09:00, Mittag: 11:30-13:00, SnackTime: 15:00-17:00, Abend: 19:00-21:00");
@@ -52,7 +58,7 @@ namespace Hotel
 
         public void CheckIn()
         {
-            Console.WriteLine("Geben sie ihren Namen, Nachnamen & ihr Alter ein");
+            
         }
 
         public void KundenAnzahl()
